@@ -7,6 +7,7 @@ The images are available at [this link](https://drive.google.com/file/d/11bYAS63
 
 If you have any questions, please email to youshan.zhang@yu.edu
 
+In the train and test CSV files, it contains the image name, stall number box location, and its number label.
 
 ### Reference
 
