@@ -15,7 +15,7 @@ In the train and test CSV files, it contains the image name, stall number box lo
 </p>
 <p align="center">Example image of stall number 29 with its box location</p>
 
-
+The highest accuracy of the model using ResNet34 as the backbone network can achieve 95% recognition accuracy in the test dataset.
 
 ### Reference
 
