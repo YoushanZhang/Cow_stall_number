@@ -32,5 +32,6 @@ Or in bibtex style:
 
 @Article{zhang2022stall,
 AUTHOR = {Zhang, Youshan},
-TITLE = {Stall Number Detection for Cow Teat Videos}
+TITLE = {Stall Number Detection for Cow Teat Videos},
+year={2022}
 }
