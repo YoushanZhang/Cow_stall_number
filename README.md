@@ -22,7 +22,7 @@ The highest accuracy of the model using ResNet34 as the backbone network can ach
 If you find it is helpful, please cite it as:
 
 `
-Zhang, Youshan. 2022. "Stall Number Detection for Cow Teat Videos".
+Zhang, Y. (2023). Stall Number Detection of Cow Teats Key Frames. arXiv preprint arXiv:2303.10444.
 `
 
 
@@ -30,8 +30,11 @@ Or in bibtex style:
 
 ```
 
-@Article{zhang2022stall,
-AUTHOR = {Zhang, Youshan},
-TITLE = {Stall Number Detection for Cow Teat Videos},
-year={2022}
-}
+@article{zhang2023stall,
+  title={Stall Number Detection of Cow Teats Key Frames},
+  author={Zhang, Youshan},
+  journal={arXiv preprint arXiv:2303.10444},
+  year={2023}}
+
+
+
