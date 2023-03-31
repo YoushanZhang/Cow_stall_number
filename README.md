@@ -1,6 +1,7 @@
 # Cow_stall_number
 
-This directory contains the dataset of stall number recognition. 
+This directory contains a small stall number recognition dataset and the code for paper: [Stall Number Detection of Cow Teats Key Frames](https://arxiv.org/pdf/2303.10444.pdf).
+
 
 The images are available at [this link](https://drive.google.com/file/d/11bYAS63OvNBAeeTbuuuNmb622N2JBgvx/view?usp=sharing).
 
